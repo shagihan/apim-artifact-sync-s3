@@ -8,7 +8,7 @@ Now we have a extensible Inbuilt artifact synchronizer to sync artifacts. This i
 
 ## Getting Started
 
-To get started, go to [WSO2 APIM 3.2.0 Sync Synapse Artifacts using S3 bucket]().
+To get started, go to [WSO2 APIM 3.2.0 Sync Synapse Artifacts using S3 bucket](https://medium.com/@shagihan/wso2-api-manager-sync-synapse-artifacts-using-s3-bucket-e0e22b544a9c).
 
 ## Build
 
